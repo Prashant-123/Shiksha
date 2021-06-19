@@ -1,4 +1,4 @@
-# ![Website](http://theshikshahub.com/uploads/Screenshots/index.png)
+# ![Website](https://raw.githubusercontent.com/Prashant-123/Shiksha/master/Screenshots/Website.png)
 # WebSite
 <table>
 <tr>
